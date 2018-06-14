@@ -13,8 +13,7 @@
   },
   "archive": {
     "registry": "docker.io",
-    "namespace": "edwardsdl",
-    "repository": "sample-java"
+    "repository": "edwardsdl/sample-java"
   },
   "deploy": {
     "containerPort": 8080
